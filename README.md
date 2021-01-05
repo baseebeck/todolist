@@ -1,2 +1,2 @@
 # todolist
-todo list web app using EJS Templating and MongoDB
+todo list web app using Node.js, EJS Templating and MongoDB
